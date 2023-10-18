@@ -18,6 +18,4 @@ Este proyecto es una aplicación web desarrollada utilizando React para crear tr
 - Tailwind CSS
 
 ## Imágenes
-
-Incluye aquí imágenes relevantes de tu aplicación, como capturas de pantalla o logotipos.
-![login-signup.gif](..%2F..%2F..%2F..%2F..%2F..%2FDownloads%2Flogin-signup.gif)
+![login-signup](https://github.com/andrewjruss7/login-signup-suma/assets/48565558/31de4479-4e19-4bb6-b2a5-67469cc3a4f6)
