@@ -20,4 +20,4 @@ Este proyecto es una aplicación web desarrollada utilizando React para crear tr
 ## Imágenes
 
 Incluye aquí imágenes relevantes de tu aplicación, como capturas de pantalla o logotipos.
-[Grabación de pantalla 2023-10-17 a la(s) 10.16.42 p. m..mov](..%2F..%2F..%2F..%2F..%2FGrabaci%C3%B3n%20de%20pantalla%202023-10-17%20a%20la%28s%29%2010.16.42%E2%80%AFp.%C2%A0m..mov)
+![login-signup.gif](..%2F..%2F..%2F..%2F..%2F..%2FDownloads%2Flogin-signup.gif)
