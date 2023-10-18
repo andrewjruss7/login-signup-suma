@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'fontSuma';
+    src: url('../../Assets/fonts/Fontspring-DEMO-vanguardcf-bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'workSans';
+    src: url('../../Assets/fonts/WorkSans-VariableFont_wght.ttf') format('opentype');
+}
+
+.font-workSans {
+    font-family: 'workSans', sans-serif;
+}
+
+h1 {
+    font-family: 'fontSuma', sans-serif;
+    color: #27314a;
+}
+
+p {
+    font-family: 'fontWorkSans', sans-serif;
+    color: #27314a;
+}
+
+.btn-forgot-red {
+    color: #bb3126;
+}
+
+.btn-login {
+    background-color: #f0474a;
+}
+
+.btn-singup {
+    font-family: 'fontWorkSans', sans-serif;
+    color: #bb3126;
+}
