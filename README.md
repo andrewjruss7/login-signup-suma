@@ -18,4 +18,4 @@ Este proyecto es una aplicación web desarrollada utilizando React para crear tr
 - Tailwind CSS
 
 ## Imágenes
-![login-signup](https://github.com/andrewjruss7/login-signup-suma/assets/48565558/31de4479-4e19-4bb6-b2a5-67469cc3a4f6)
+![login-suma](https://github.com/andrewjruss7/login-signup-suma/assets/48565558/df211ca1-8d91-4333-ba2a-a401dcf3c7dd)
